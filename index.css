@@ -1,0 +1,20 @@
+body{
+        background-color: bisque;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 500;
+}
+h1{
+        text-align: center;
+}
+#container{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+}
+#datePicked{
+        font-size: 18px;
+        
+}
+#result{
+        text-align: center;
+}
